@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Website</title>
+        <title>Group32</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Group 32</h1>
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
