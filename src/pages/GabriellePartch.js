@@ -6,23 +6,17 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hi, I'm Gabrielle Partch. </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://i.postimg.cc/6pQC3RGw/IMG-0520.jpg'
+            alt='gabrielle partch'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            I'm from Glenwood Springs, CO, and I enjoy skiing, 
+            backpacking, painting, sewing, and playing video games.
           </p>
 
           <a className='button' href='/'>
@@ -68,8 +62,8 @@ export default function examplePage() {
           }
 
           .pic {
-            height: 450px;
-            width: 450px;
+            height: 672px;
+            width: 504px;
           }
 
           .button {
