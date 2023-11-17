@@ -62,8 +62,8 @@ export default function examplePage() {
           }
 
           .pic {
-            height: 672px;
-            width: 504px;
+            height: 504px;
+            width: 672px;
           }
 
           .button {
