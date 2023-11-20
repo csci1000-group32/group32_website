@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Website</title>
+        <title>Group32</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Group 32</h1>
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
@@ -25,6 +25,9 @@ export default function Home() {
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
+          </a>
+          <a href='/GabriellePartch ' className='card'>
+            <h3>Gabrielle Partch &rarr;</h3>
           </a>
 
           <a
