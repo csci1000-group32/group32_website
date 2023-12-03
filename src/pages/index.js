@@ -6,22 +6,22 @@ export default function Home() {
       <Head>
         <title>Group32</title>
         <link rel='icon' href='/favicon.ico' />
-      </Head>
-
-      <main>
         <style type = "text/css">
+          h1 { background-color: #ee3e80; color: DarkCyan; }
+        </style>
+      </Head>
+      <main>
         <h1 className='title'>Group 32</h1>
-        h1 { background-color: #ee3e80; color: DarkCyan; }
-
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          CSCI 1000 - Group 32 - Github Project
         </p>
+          /*
         <p className='description2'>
           Next, each team member will create their own about me file in the
           pages directory:{' '}
         </p>
         <code>src/page/teamMemberName.js</code>
+        */
 
         <div className='grid'>
           <a href='/TomHolland ' className='card'>
