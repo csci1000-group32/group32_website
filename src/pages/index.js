@@ -10,18 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className='title'>Group 32</h1>
-
-        /*
-        <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
-        </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/page/teamMemberName.js</code>
-        */
+        
 
         <div className='grid'>
         /*
@@ -40,6 +29,7 @@ export default function Home() {
             <h3>Alexander Eadie &rarr;</h3>
           </a>
 
+          /*
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
@@ -70,6 +60,7 @@ export default function Home() {
             <h3>Netlify&rarr;</h3>
             <p>Click here to learn more about Netlify to host your website</p>
           </a>
+          */
         </div>
       </main>
 
