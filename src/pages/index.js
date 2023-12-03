@@ -11,6 +11,7 @@ export default function Home() {
       <main>
         <h1 className='title'>Group 32</h1>
 
+        /*
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
           project home page.
@@ -20,14 +21,23 @@ export default function Home() {
           pages directory:{' '}
         </p>
         <code>src/page/teamMemberName.js</code>
+        */
 
         <div className='grid'>
+        /*
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
+        */
           <a href='/GabriellePartch ' className='card'>
             <h3>Gabrielle Partch &rarr;</h3>
+          </a>
+          <a href='/AlexCarmichael ' className='card'>
+            <h3>Alex Carmichael &rarr;</h3>
+          </a>
+          <a href='/AlexanderEadie ' className='card'>
+            <h3>Alexander Eadie &rarr;</h3>
           </a>
 
           <a
@@ -168,7 +178,7 @@ export default function Home() {
           flex-basis: 45%;
           padding: 1.5rem;
           text-align: left;
-          color: inherit;
+          color: #e6f2ff;
           text-decoration: none;
           border: 1px solid #eaeaea;
           border-radius: 10px;
