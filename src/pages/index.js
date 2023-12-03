@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <style type = "text/css">
         <h1 className='title'>Group 32</h1>
-        h1 { color: DarkCyan; }
+        h1 { background-color: #ee3e80; color: DarkCyan; }
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
