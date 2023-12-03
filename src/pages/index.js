@@ -7,7 +7,7 @@ export default function Home() {
         <title>Group32</title>
         <link rel='icon' href='/favicon.ico' />
         <style type = "text/css">
-          h1 { background-color: #ee3e80; color: DarkCyan; }
+        //  h1 { background-color: #ee3e80; color: DarkCyan; }
         </style>
       </Head>
       <main>
