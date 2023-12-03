@@ -137,6 +137,7 @@ export default function Home() {
           margin: 0;
           line-height: 1.15;
           font-size: 4rem;
+          color: #004d4d;
         }
 
         .title,
@@ -178,7 +179,7 @@ export default function Home() {
           flex-basis: 45%;
           padding: 1.5rem;
           text-align: left;
-          color: #e6f2ff;
+          color: #000000;
           text-decoration: none;
           border: 1px solid #eaeaea;
           border-radius: 10px;
