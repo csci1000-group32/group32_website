@@ -15,8 +15,10 @@ export default function examplePage() {
           />
 
           <p className='description'>
+                
             I'm from Glenwood Springs, CO, and I enjoy skiing, 
             backpacking, painting, sewing, and playing video games.
+                
           </p>
 
           <img
@@ -24,6 +26,10 @@ export default function examplePage() {
             src='https://i.postimg.cc/L8MPXZ7d/IMG-0093.jpg'
             alt='gabrielle partch'
           />
+
+            <p className='description2'>
+
+            </p>
 
           <img
             className='pic3'
@@ -46,6 +52,7 @@ export default function examplePage() {
             align-items: center;
             max-width: 60rem;
             margin: auto;
+            background: #cce6ff;
           }
 
           main {
