@@ -19,6 +19,18 @@ export default function examplePage() {
             backpacking, painting, sewing, and playing video games.
           </p>
 
+          <img
+            className='pic2'
+            src='https://i.postimg.cc/L8MPXZ7d/IMG-0093.jpg'
+            alt='gabrielle partch'
+          />
+
+          <img
+            className='pic3'
+            src='https://i.postimg.cc/hG4fQFBg/IMG-9804.jpg'
+            alt='gabrielle partch'
+          />
+
           <a className='button' href='/'>
             <p> Back to Home Page</p>
           </a>
@@ -43,6 +55,7 @@ export default function examplePage() {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            background: #cce6ff;
           }
 
           .title {
