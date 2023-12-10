@@ -86,6 +86,12 @@ export default function examplePage() {
             height: 504px;
             width: 672px;
           }
+          .pic1 {
+            margin: 1rem;
+          }
+          .pic2 {
+            margin: 1rem;
+          }
 
           .button {
             /* margin: .5rem; */
