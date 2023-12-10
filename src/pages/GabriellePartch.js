@@ -62,7 +62,7 @@ export default function examplePage() {
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            background: #cce6ff;
+            background: #ffffff;
           }
 
           .title {
@@ -79,6 +79,7 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
+            margin: 1rem;
           }
 
           .pic {
@@ -93,7 +94,7 @@ export default function examplePage() {
             text-align: left;
             color: inherit;
             text-decoration: none;
-            border: 1px solid #eaeaea;
+            border: 5px solid #004080;
             border-radius: 10px;
             transition: color 0.15s ease, border-color 0.15s ease;
           }
@@ -101,8 +102,8 @@ export default function examplePage() {
           .button:hover,
           .button:focus,
           .button:active {
-            color: #0070f3;
-            border-color: #0070f3;
+            color: #80bfff;
+            border-color: #004d99;
           }
 
           .button p {
