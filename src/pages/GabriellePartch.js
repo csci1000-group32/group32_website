@@ -37,6 +37,10 @@ export default function examplePage() {
             alt='gabrielle partch'
           />
 
+                <p className='description3'>
+
+            </p>
+
           <a className='button' href='/'>
             <p> Back to Home Page</p>
           </a>
